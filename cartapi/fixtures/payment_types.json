@@ -1,0 +1,37 @@
+[
+  {
+    "model": "cartapi.paymenttype",
+    "pk": 1,
+    "fields": {
+        "name": "Credit Card"
+    }
+},
+{
+    "model": "cartapi.paymenttype",
+    "pk": 2,
+    "fields": {
+        "name": "Gift Card"
+    }
+},
+{
+    "model": "cartapi.paymenttype",
+    "pk": 3,
+    "fields": {
+        "name": "ACH"
+    }
+},
+{
+    "model": "cartapi.paymenttype",
+    "pk": 4,
+    "fields": {
+        "name": "Paypal"
+    }
+},
+{
+    "model": "cartapi.paymenttype",
+    "pk": 5,
+    "fields": {
+        "name": "Venmo"
+    }
+}
+]

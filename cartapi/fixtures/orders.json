@@ -1,0 +1,24 @@
+[
+  {
+      "model": "cartapi.order",
+      "pk": 1,
+      "fields": {
+          "buyer": 1,
+          "date": null,
+          "shipped": false,
+          "payment_type": null,
+          "is_open": true
+      }
+  },
+  {
+      "model": "cartapi.order",
+      "pk": 2,
+      "fields": {
+          "buyer": 2,
+          "date": "2023-07-02",
+          "shipped": false,
+          "payment_type": 2,
+          "is_open": false
+      }
+  }
+]
